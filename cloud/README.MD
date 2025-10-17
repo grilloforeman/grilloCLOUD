@@ -40,7 +40,7 @@ Exemplo:
 $ssh teste3@localhsot -p portas escolhida
 
 Para criar a imagem que foi modificada para o projeto.
-$ docker build -t nome-da-imagem .
+$ docker build -t exemmplo/oi .
 
 O nome da imagem criada tem que ser de acordo com o 
 código pois tem que ser chammada.
